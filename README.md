@@ -17,6 +17,12 @@ Here is my proposed solution for the Prodigy visualization task using Tableau:
 
 Link to My Solution Video for Prodigy Task 2:
 https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/8169065d-f31c-4dea-9d5a-ec14cb4fa607
+
+
+
+
+
+
 <img width="960" alt="image" src="https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/b85fc07c-5869-4f1c-a1da-6b95875ee308">
 <img width="960" alt="image" src="https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/907d4ca2-ecef-4997-ad9b-bcf45d5beab4">
 <img width="960" alt="image" src="https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/86787022-5b8a-432b-9f97-8afec2f61bc8">
