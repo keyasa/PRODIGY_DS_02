@@ -6,6 +6,7 @@ Prodigy Data Science Internship Task-2
 Sample Dataset :- https://www.kaggle.com/c/titanic/data
 
 ***Note: It's not compulsory to use the provided dataset. Additionally, Data Science Interns can use tools like MS Excel, Power BI, Tableau & Google Sheets too.***
+
 Here is my proposed solution for the Prodigy visualization task using Tableau:
 
 1.**Data Cleaning**:I performed data cleaning in Excel and Tableau. In Excel, for the Age column, I calculated the mean (23.7), median (22), and mode (24), replacing the missing values with the mode. Similarly, for the Cabin column, I identified the most frequent cabins, and since two cabins had the highest frequency, I replaced the missing values with one of those highly frequent values. In Tableau, I addressed the Embarked column, which had a single null value
