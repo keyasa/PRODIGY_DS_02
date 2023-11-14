@@ -16,7 +16,13 @@ Here is my proposed solution for the Prodigy visualization task using Tableau:
 ***You can also view my excel dataset with no null values in this repository***
 
 Link to My Solution Video for Prodigy Task 2:
+
+
 https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/8169065d-f31c-4dea-9d5a-ec14cb4fa607
+
+
+
+https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/9cfede0c-8da8-44ef-b86a-90f95247d5bd
 
 
 
