@@ -10,7 +10,9 @@ Note: It's not compulsory to use the provided dataset. Additionally, Data Scienc
 Here is my proposed solution for the Prodigy visualization task using Tableau:
 
 1.Data Cleaning:I performed data cleaning in Excel and Tableau. In Excel, for the Age column, I calculated the mean (23.7), median (22), and mode (24), replacing the missing values with the mode. Similarly, for the Cabin column, I identified the most frequent cabins, and since two cabins had the highest frequency, I replaced the missing values with one of those highly frequent values. In Tableau, I addressed the Embarked column, which had a single null value
+
 2.Exploratory Data Analysis:The exploratory data analysis includes univariate visualizations, bi-variate visualizations, and outlier detection visualization using boxplots. I utilized histograms, scatterplots,boxplots and heat maps to visualize relationships between variables.
+
 3.Patterns and Trends:To detect patterns and trends, I created a Tableau dashboard.
 
 ***You can also view my excel dataset with no null values in this repository***
