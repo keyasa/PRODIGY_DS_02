@@ -22,7 +22,6 @@ https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/8169065d-f31c-4dea-9d5a
 
 
 
-https://github.com/keyasa/PRODIGY_DS_02/assets/104371719/9cfede0c-8da8-44ef-b86a-90f95247d5bd
 
 
 
